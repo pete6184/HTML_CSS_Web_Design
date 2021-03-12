@@ -1,0 +1,100 @@
+nav {
+    font-weight: 900;
+}
+
+h1 {
+    font-size: 3em;
+    color: teal;
+    background-color: white;
+    margin-left: 50px;
+}
+
+p {
+    font-size: 1.5em;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.index_image {
+    width: 40%;
+}
+
+h3 {
+    background-color: teal;
+    color: white;
+    font-size: 40px;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+
+}
+
+.visualizations {
+    text-align: center;
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 3mm;
+}
+
+h2 {
+    text-align: left;
+    font-size: 2em;
+    color: teal;
+    margin-left: 50px;
+}
+
+body {
+    background-color: rgb(209, 208, 208);
+}
+
+.content {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 3mm;
+    width: 50%;
+}
+
+.link_image {
+    width: 20%;
+}
+
+hr {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.analysis {
+    font-size: 1.5em;
+    color: rgb(88, 87, 87);
+}
+
+.compare {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 3mm;
+    width: 80%;
+}
+
+.compare_image {
+    width: 700px;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.table {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.tablecontent {
+    left: 1vw;
+    right: 1vw;
+}
