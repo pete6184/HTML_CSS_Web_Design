@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(209, 208, 208);
+}
+
 nav {
     font-weight: 900;
 }
@@ -19,15 +23,6 @@ p {
     width: 40%;
 }
 
-h3 {
-    background-color: teal;
-    color: white;
-    font-size: 40px;
-    margin-top: 1mm;
-    margin-bottom: 1mm;
-
-}
-
 .visualizations {
     text-align: center;
     background-color: white;
@@ -45,8 +40,12 @@ h2 {
     margin-left: 50px;
 }
 
-body {
-    background-color: rgb(209, 208, 208);
+h3 {
+    background-color: teal;
+    color: white;
+    font-size: 40px;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
 }
 
 .content {
@@ -79,12 +78,11 @@ hr {
     margin-right: 100px;
     margin-top: 50px;
     margin-bottom: 50px;
-    padding: 3mm;
     width: 80%;
 }
 
 .compare_image {
-    width: 700px;
+    width: 450px;
     flex-wrap: wrap;
     position: relative;
 }
@@ -94,7 +92,12 @@ hr {
     margin-right: 50px;
 }
 
-.tablecontent {
-    left: 1vw;
-    right: 1vw;
+.data-content {
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 3mm;
+    width: inherit;
 }
