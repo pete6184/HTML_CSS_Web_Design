@@ -7,16 +7,16 @@ nav {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     color: teal;
     background-color: white;
-    margin-left: 50px;
+    margin-left: 1em;
 }
 
 p {
     font-size: 1.5em;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 2em;
+    margin-right: 2em;
 }
 
 .index_image {
@@ -26,10 +26,10 @@ p {
 .visualizations {
     text-align: center;
     background-color: white;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
     padding: 3mm;
 }
 
@@ -43,19 +43,23 @@ h2 {
 h3 {
     background-color: teal;
     color: white;
-    font-size: 40px;
+    font-size: 2em;
     margin-top: 1mm;
     margin-bottom: 1mm;
 }
 
 .content {
     background-color: white;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
     padding: 3mm;
     width: 50%;
+}
+
+.content p {
+    font-size: 1em;
 }
 
 .link_image {
@@ -63,8 +67,8 @@ h3 {
 }
 
 hr {
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 .analysis {
@@ -74,10 +78,11 @@ hr {
 
 .compare {
     background-color: white;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 2mm;
     width: 80%;
 }
 
@@ -88,8 +93,8 @@ hr {
 }
 
 .table {
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 .data-content {
@@ -100,4 +105,8 @@ hr {
     margin-bottom: 50px;
     padding: 3mm;
     width: inherit;
+}
+
+.data-content p {
+    font-size: 1em;
 }

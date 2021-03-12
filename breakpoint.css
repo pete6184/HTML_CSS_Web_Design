@@ -76,7 +76,7 @@ hr {
 }
 
 .data-content {
-    margin-left: -3em;
+    margin-left: 0em;
     margin-top: .5em;
 }
 
@@ -86,7 +86,12 @@ hr {
 }
 
 .data-content h1 {
-    margin-left: 1.5em;
+    margin-left: 0em;
+}
+
+.table {
+    margin-left: .5em;
+    margin-right: .5em;
 }
 
 }
