@@ -10,7 +10,7 @@ h1 {
     font-size: 2.5em;
     color: teal;
     background-color: white;
-    margin-left: 1em;
+    margin-left: .5em;
 }
 
 p {
@@ -24,7 +24,6 @@ p {
 }
 
 .visualizations {
-    text-align: center;
     background-color: white;
     margin-left: 2em;
     margin-right: 2em;
@@ -37,7 +36,7 @@ h2 {
     text-align: left;
     font-size: 1.5em;
     color: teal;
-    margin-left: 1em;
+    margin-left: .5em;
     margin-right: 1em;
 }
 
@@ -116,3 +115,4 @@ hr {
     table-layout: fixed;
     margin-right: 3em;
 }
+
