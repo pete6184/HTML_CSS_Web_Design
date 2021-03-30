@@ -1,9 +1,9 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Requirements & Summary
-For this assignment we used a code editor (I used Visual Studio Code) to write our code, launched the website through the code editors' live server, and then 'hosted' the web page via github-pages.
+For this assignment we used a code editor (I used Visual Studio Code) to write our code, launched the website through the code editors' live server, and then 'hosted' the web page via GitHub-pages.
 
-This was my introduction to HTML and CSS and I enjoyed playing around with styling webpages. There was some struggles with getting the CSS to work properly in the beginning and finding out the hierarchy of the styling attributes but I was able to figure it out and overcome the challenges I was having. Overall, I really enjoyed this challenge and look forward to see what else I can do with making web pages.
+This was my introduction to HTML and CSS, and I enjoyed playing around with styling webpages. There were some struggles with getting the CSS to work properly in the beginning and finding out the hierarchy of the styling attributes but I was able to figure it out and overcome the challenges I was having. Overall, I really enjoyed this challenge and look forward to seeing what else I can do with making web pages.
 
 ## Background
 
@@ -19,7 +19,7 @@ The website consists of 7 pages total, including:
 
 * A [landing page](#landing-page) containing:
   * An explanation of the project.
-  * Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
+  * Links to each visualizations page. There should be a sidebar containing preview images of each plot and clicking an image should take the user to that visualization.
 * Four [visualization pages](#visualization-pages), each with:
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
