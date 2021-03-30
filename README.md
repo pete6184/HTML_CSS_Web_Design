@@ -1,11 +1,9 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Requirements & Summary
-For this assignment we used a code editor (I used Visual Studio Code) to write our code then launched the website through the code editors' live server and then 'hosted' the web page via github-pages. This was my introduction to HTML and CSS and I enjoyed playing around with styling webpages.
+For this assignment we used a code editor (I used Visual Studio Code) to write our code, launched the website through the code editors' live server, and then 'hosted' the web page via github-pages.
 
-
-
-
+This was my introduction to HTML and CSS and I enjoyed playing around with styling webpages. There was some struggles with getting the CSS to work properly in the beginning and finding out the hierarchy of the styling attributes but I was able to figure it out and overcome the challenges I was having. Overall, I really enjoyed this challenge and look forward to see what else I can do with making web pages.
 
 ## Background
 
