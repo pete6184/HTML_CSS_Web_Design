@@ -1,10 +1,17 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
+## Requirements & Summary
+For this assignment we used a code editor (I used Visual Studio Code) to write our code then launched the website through the code editors' live server and then 'hosted' the web page via github-pages. This was my introduction to HTML and CSS and I enjoyed playing around with styling webpages.
+
+
+
+
+
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a website showing off the analysis we've done.
 
-For this homework we created a visualization dashboard website using the visualizations we created in a past assignment. Specifically, we plotted from the API PyWeather assignment.
+For this homework we created a visualization dashboard website using the visualizations we created in a past assignment. Specifically, we plotted from the API WeatherPy assignment.
 
 In building this dashboard, I created individual pages for each plot and a means by which individuals can navigate between them. These pages contain the visualizations and their corresponding explanations.
 
