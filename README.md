@@ -3,9 +3,7 @@
 ## Requirements & Summary
 For this assignment we used a code editor (I used Visual Studio Code) to write our code, launched the website through the code editor's live server, and then 'hosted' the web page via GitHub-pages.
 
-This assignment was focused on taking information gathered from a previous assignment (WeatherPy) and displaying the information into a webpage. This will allow the information to be distributed to a larger number of end users who might not be as familiar with code editors or other analytics programs.
-
-This was my introduction to HTML and CSS, and I enjoyed playing around with styling webpages. There were some struggles with getting the CSS to work properly in the beginning and finding out the hierarchy of the styling attributes, but I was able to figure it out and overcome the challenges I was having. Overall, I really enjoyed this challenge and look forward to seeing what else I can do with making web pages.
+This assignment was focused on taking information gathered from a previous assignment (WeatherPy) and displaying the information into a webpage. This allows the information to be distributed to a larger number of end users who might not be as familiar with code editors or other analytics programs.
 
 ## Background
 
