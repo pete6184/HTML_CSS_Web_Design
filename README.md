@@ -48,5 +48,6 @@ The website consists of 7 pages total, including:
 ![data_page](https://user-images.githubusercontent.com/74940976/118374698-6fb58b80-b572-11eb-8970-137596638d69.PNG)
 
 
-Responsiveness
+## Responsiveness
+
 ![breakpoint](https://user-images.githubusercontent.com/74940976/118374706-7d6b1100-b572-11eb-9afb-f40ffc594ceb.PNG)
